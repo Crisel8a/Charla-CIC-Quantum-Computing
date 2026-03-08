@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Sobre las bases matemáticas necesarias para un primer curso de computación cuántica.</strong><br>
-  @IPN-ESFM-Crisel Escalante, Julio Hernández 2022
+  @IPN-ESFM-Crisel Escalante
 </p>
 
 <p align="center">
